@@ -36,7 +36,7 @@
 	},
 	"name": "repoWithTwoAppsAndTwoAPIs",
 	"description": null,
-	"ver": "22.11.18.1341",
+	"ver": "22.11.18.1342",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -61,7 +61,7 @@
 		},
 		{
 			"id": "DF21F1AB-4667-ED11-AC20-0050F279CDEF",
-			"name": "myapi1",
+			"name": "myapi2",
 			"description": null,
 			"apiGroup": null
 		}
