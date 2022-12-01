@@ -140,6 +140,7 @@
 			"data": []
 		}
 	],
+	"componentInterface": [],
 	"ver": "22.11.18.1440",
 	"application": "myapplication2",
 	"title": "",
@@ -162,6 +163,7 @@
 	"ui5_theme": "sap_fiori_3",
 	"ui5_version": "",
 	"ui5_language": null,
+	"ui5_url": null,
 	"cus_theme": "",
 	"css": "",
 	"header": "",
@@ -176,5 +178,5 @@
 	"useV2AppHandler": false,
 	"compilerTarget": 3,
 	"apis": [],
-	"package": "8A763E45-4667-ED11-AC20-0050F279CDEF"
+	"package": "8a763e45-4667-ed11-ac20-0050f279cdef"
 }
