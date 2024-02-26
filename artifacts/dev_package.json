@@ -13,28 +13,19 @@
 	"enableCICD": true,
 	"apps": [
 		{
-			"id": "f8503d1a-b927-4d4e-89f4-7d0e6febd99f",
-			"application": "myapplication1",
-			"title": "",
-			"description": ""
-		},
-		{
 			"id": "6b9f0c7d-4667-ed11-ac20-0050f279cdef",
 			"application": "myapplication2",
 			"title": "",
-			"description": ""
+			"description": "",
+			"package": {
+				"id": "8a763e45-4667-ed11-ac20-0050f279cdef"
+			}
 		}
 	],
 	"api": [
 		{
 			"id": "df21f1ab-4667-ed11-ac20-0050f279cdef",
 			"name": "myapi2",
-			"description": null,
-			"apiGroup": null
-		},
-		{
-			"id": "01297aa0-4667-ed11-ac20-0050f279cdef",
-			"name": "myapi1",
 			"description": null,
 			"apiGroup": null
 		}
@@ -62,5 +53,8 @@
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
-	"events": []
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
 }
