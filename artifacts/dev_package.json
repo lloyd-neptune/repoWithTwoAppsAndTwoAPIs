@@ -13,6 +13,15 @@
 	"enableCICD": true,
 	"apps": [
 		{
+			"id": "fc8c8975-601c-4efb-8fe6-d9f118a2425e",
+			"application": "myapplication1",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "8a763e45-4667-ed11-ac20-0050f279cdef"
+			}
+		},
+		{
 			"id": "6b9f0c7d-4667-ed11-ac20-0050f279cdef",
 			"application": "myapplication2",
 			"title": "",
@@ -26,6 +35,12 @@
 		{
 			"id": "df21f1ab-4667-ed11-ac20-0050f279cdef",
 			"name": "myapi2",
+			"description": null,
+			"apiGroup": null
+		},
+		{
+			"id": "01297aa0-4667-ed11-ac20-0050f279cdef",
+			"name": "myapi1",
 			"description": null,
 			"apiGroup": null
 		}
