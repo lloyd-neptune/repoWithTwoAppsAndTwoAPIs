@@ -47,18 +47,36 @@
 	],
 	"odataSource": [],
 	"odataMock": [],
-	"dictionary": [],
+	"dictionary": [
+		{
+			"id": "4009b154-7ffd-4d15-8864-28a1177d320d",
+			"name": "elearning_hr_demo_assign_assets",
+			"description": null
+		}
+	],
 	"jsclass": [],
 	"jsscript_group": [],
 	"theme": [],
 	"pdf": [],
-	"rulesengine": [],
+	"rulesengine": [
+		{
+			"id": "d20e91a6-1ac2-40ee-96fc-31469a88fd4b",
+			"name": "Test",
+			"description": ""
+		}
+	],
 	"reports": [],
 	"api_authentication": [],
 	"api_group": [],
 	"tile": [],
 	"category": [],
-	"launchpad": [],
+	"launchpad": [
+		{
+			"id": "a7a088ec-19d8-40cd-b473-a613097bc8c8",
+			"name": "My First Launchpad",
+			"description": null
+		}
+	],
 	"certificates": [],
 	"role": [],
 	"systems": [],
@@ -66,10 +84,22 @@
 	"wf_notifications": [],
 	"department": [],
 	"script_scheduler": [],
-	"wf_definition": [],
+	"wf_definition": [
+		{
+			"id": "8f9dc72a-2a79-ec11-94f6-a085fcbc9f84",
+			"title": "Covid_Certificate_Approval",
+			"subTitle": null
+		}
+	],
 	"connector": [],
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
-	"wf_taskaction": []
+	"wf_taskaction": [
+		{
+			"id": "90da28be-1e6e-46bb-a1df-2549d26ccb61",
+			"name": "eLearning-Inspection Approve",
+			"description": null
+		}
+	]
 }

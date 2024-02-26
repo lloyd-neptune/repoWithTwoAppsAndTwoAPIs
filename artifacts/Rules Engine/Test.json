@@ -1,0 +1,33 @@
+{
+	"id": "d20e91a6-1ac2-40ee-96fc-31469a88fd4b",
+	"createdAt": "2024-02-12T12:06:09.000Z",
+	"createdBy": "admin",
+	"interface": [
+		{
+			"id": "c0d0b737-daf7-43bf-a480-d44cf51d6c5c",
+			"parent": "",
+			"name": "Test",
+			"objectType": "string",
+			"description": ""
+		}
+	],
+	"rules": [
+		{
+			"id": "5f3b8ee3-d33d-482a-cfe5-e319850c842e",
+			"result": "2",
+			"items": [
+				{
+					"id": "a9bb7a0f-29aa-4ce0-bcba-0cdfefd61034",
+					"field": "c0d0b737-daf7-43bf-a480-d44cf51d6c5c",
+					"operator": "equal",
+					"value": "1"
+				}
+			]
+		}
+	],
+	"name": "Test",
+	"description": "",
+	"ver": "24.02.26.1738",
+	"package": "8a763e45-4667-ed11-ac20-0050f279cdef",
+	"roles": []
+}
